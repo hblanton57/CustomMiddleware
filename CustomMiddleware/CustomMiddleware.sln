@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "..\Web\Web.csproj", "{DE72A2EE-891B-4FE0-96A3-330D3DA1564B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware.Tests", "..\Middleware.Tests\Middleware.Tests.csproj", "{38A22A95-484E-482A-9548-27841A78A174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,13 @@ Global
 		{DE72A2EE-891B-4FE0-96A3-330D3DA1564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE72A2EE-891B-4FE0-96A3-330D3DA1564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE72A2EE-891B-4FE0-96A3-330D3DA1564B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB75316-9A47-4CF2-BD7C-50F34BA5B155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB75316-9A47-4CF2-BD7C-50F34BA5B155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB75316-9A47-4CF2-BD7C-50F34BA5B155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB75316-9A47-4CF2-BD7C-50F34BA5B155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A22A95-484E-482A-9548-27841A78A174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A22A95-484E-482A-9548-27841A78A174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A22A95-484E-482A-9548-27841A78A174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A22A95-484E-482A-9548-27841A78A174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
